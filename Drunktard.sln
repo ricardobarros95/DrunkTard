@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drunktard.Plugins", "Drunktard.Plugins.csproj", "{535EAB59-DD5F-A891-AA5C-D3B5F106389F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drunktard", "Drunktard.csproj", "{6802BBC9-88C4-F647-6514-48B1A70BA1A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drunktard.Editor.Plugins", "Drunktard.Editor.Plugins.csproj", "{808ECDF0-D483-DC10-2542-AA114A5C42BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{535EAB59-DD5F-A891-AA5C-D3B5F106389F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535EAB59-DD5F-A891-AA5C-D3B5F106389F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535EAB59-DD5F-A891-AA5C-D3B5F106389F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535EAB59-DD5F-A891-AA5C-D3B5F106389F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6802BBC9-88C4-F647-6514-48B1A70BA1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6802BBC9-88C4-F647-6514-48B1A70BA1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6802BBC9-88C4-F647-6514-48B1A70BA1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6802BBC9-88C4-F647-6514-48B1A70BA1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808ECDF0-D483-DC10-2542-AA114A5C42BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808ECDF0-D483-DC10-2542-AA114A5C42BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808ECDF0-D483-DC10-2542-AA114A5C42BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808ECDF0-D483-DC10-2542-AA114A5C42BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

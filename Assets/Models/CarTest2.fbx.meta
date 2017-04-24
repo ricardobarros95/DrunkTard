@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: e5c5c3bf179a74e448b74f106a0e35a8
+timeCreated: 1493041505
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bench
+    100002: Camera
+    100004: Camera.001
+    100006: Car
+    100008: //RootNode
+    100010: Cube
+    100012: Cube.001
+    100014: Cube.002
+    100016: Cube.003
+    100018: Hand_Handle
+    100020: Hand_Handle.001
+    100022: Lamp
+    100024: Plate
+    100026: Plate.001
+    100028: wHEEL
+    100030: wHEEL.001
+    100032: wHEEL.002
+    100034: wHEEL.003
+    100036: wHEEL.004
+    100038: wHEEL.005
+    100040: wHEEL.006
+    100042: wHEEL.007
+    100044: wHEEL.008
+    400000: Bench
+    400002: Camera
+    400004: Camera.001
+    400006: Car
+    400008: //RootNode
+    400010: Cube
+    400012: Cube.001
+    400014: Cube.002
+    400016: Cube.003
+    400018: Hand_Handle
+    400020: Hand_Handle.001
+    400022: Lamp
+    400024: Plate
+    400026: Plate.001
+    400028: wHEEL
+    400030: wHEEL.001
+    400032: wHEEL.002
+    400034: wHEEL.003
+    400036: wHEEL.004
+    400038: wHEEL.005
+    400040: wHEEL.006
+    400042: wHEEL.007
+    400044: wHEEL.008
+    2300000: Bench
+    2300002: Car
+    2300004: Cube
+    2300006: Cube.001
+    2300008: Cube.002
+    2300010: Cube.003
+    2300012: Hand_Handle
+    2300014: Hand_Handle.001
+    2300016: Plate
+    2300018: Plate.001
+    2300020: wHEEL
+    2300022: wHEEL.001
+    2300024: wHEEL.002
+    2300026: wHEEL.003
+    2300028: wHEEL.004
+    2300030: wHEEL.005
+    2300032: wHEEL.006
+    2300034: wHEEL.007
+    2300036: wHEEL.008
+    3300000: Bench
+    3300002: Car
+    3300004: Cube
+    3300006: Cube.001
+    3300008: Cube.002
+    3300010: Cube.003
+    3300012: Hand_Handle
+    3300014: Hand_Handle.001
+    3300016: Plate
+    3300018: Plate.001
+    3300020: wHEEL
+    3300022: wHEEL.001
+    3300024: wHEEL.002
+    3300026: wHEEL.003
+    3300028: wHEEL.004
+    3300030: wHEEL.005
+    3300032: wHEEL.006
+    3300034: wHEEL.007
+    3300036: wHEEL.008
+    4300000: Plate
+    4300002: Cube
+    4300004: wHEEL
+    4300006: Hand_Handle
+    4300008: Car
+    4300010: Hand_Handle.001
+    4300012: Bench
+    4300014: wHEEL.001
+    4300016: wHEEL.002
+    4300018: wHEEL.003
+    4300020: wHEEL.004
+    4300022: wHEEL.005
+    4300024: wHEEL.006
+    4300026: wHEEL.007
+    4300028: wHEEL.008
+    4300030: Cube.001
+    4300032: Plate.001
+    4300034: Cube.002
+    4300036: Cube.003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
